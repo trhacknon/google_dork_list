@@ -12,7 +12,7 @@ https://hackingpassion.com/google-dorks-an-easy-way-of-hacking/
 
 # Install Dork List
 
-sudo git clone https://github.com/BullsEye0/google_dork_list.git
+sudo git clone https://github.com/trhacknon/google_dork_list.git
 
 cd google_dork_list
 
